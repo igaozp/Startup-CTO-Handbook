@@ -484,7 +484,7 @@ I hope it helps you in your journey to build powerful technology, motivated and 
 
 **The Waterfall Model** (ctohb.com/waterfall): https://en.wikipedia.org/wiki/Waterfall\_model#History
 
-**e Pragmatic Programmer** (ctohb.com/tpp): https://en.wikipedia.org/wiki/ e\_Pragmatic\_Programmer
+**The Pragmatic Programmer** (ctohb.com/tpp): https://en.wikipedia.org/wiki/ e\_Pragmatic\_Programmer
 
 **Rubber Duck Debugging** (ctohb.com/rdd): https://en.wikipedia.org/wiki/Rubber\_duck\_debugging
 
