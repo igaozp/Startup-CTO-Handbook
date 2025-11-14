@@ -410,7 +410,7 @@ I hope it helps you in your journey to build powerful technology, motivated and 
 
 *Scaling Up* by Verne Harnish
 
-*The Hard ing About Hard ings* by Ben Horowitz
+*The Hard Thing About Hard Things* by Ben Horowitz
 
 *Immunity to Change* by Robert Kegan
 
