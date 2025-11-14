@@ -482,7 +482,7 @@ I hope it helps you in your journey to build powerful technology, motivated and 
 
 **Technology Radar** (ctohb.com/radar): https://www.thoughtworks.com/en-us/radar
 
-**e Waterfall Model** (ctohb.com/waterfall): https://en.wikipedia.org/wiki/Waterfall\_model#History
+**The Waterfall Model** (ctohb.com/waterfall): https://en.wikipedia.org/wiki/Waterfall\_model#History
 
 **e Pragmatic Programmer** (ctohb.com/tpp): https://en.wikipedia.org/wiki/ e\_Pragmatic\_Programmer
 
